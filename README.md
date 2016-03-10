@@ -1,2 +1,19 @@
 # Meteor-BrainTree-Dropin-UI
 Prototype of using the BrainTree Drop-in UI.  Requires additional work for error checking, etc
+
+The following packages were installed (but not necessarily all of them were used)
+autopublish           1.0.4  (For prototyping only) Publish the entire databa...
+blaze-html-templates  1.0.1  Compile HTML templates into reactive UI with Met...
+ecmascript            0.1.6* Compiler plugin that supports ES2015+ in all .js...
+es5-shim              4.1.14  Shims and polyfills to improve ECMAScript 5 sup...
+insecure              1.0.4  (For prototyping only) Allow all database writes...
+iron:router           1.0.12  Routing specifically designed for Meteor
+jquery                1.11.4  Manipulate the DOM using CSS selectors
+meteor-base           1.0.1  Packages that every Meteor app needs
+mobile-experience     1.0.1  Packages for a great mobile user experience
+mongo                 1.1.3  Adaptor for using MongoDB and Minimongo over DDP
+patrickml:braintree   1.32.0  Complete Sync wrapper for Braintree Payments.
+session               1.1.1  Session variable
+standard-minifiers    1.0.2  Standard minifiers used with Meteor apps by defa...
+tracker               1.0.9  Dependency tracker to allow reactive callbacks
+
